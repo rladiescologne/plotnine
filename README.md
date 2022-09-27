@@ -16,7 +16,7 @@ Our workshop is focused on exploring how to create and customize enticing visual
 
 [Slides]()
 
-[Google Colab]()
+[Google Colab (starter)]()
 
 [Google Colab (with solution)]()
 

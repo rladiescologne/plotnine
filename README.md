@@ -14,11 +14,13 @@ Our workshop is focused on exploring how to create and customize enticing visual
 
 ## Material
 
-[Slides]()
+[Slides](https://github.com/rladiescologne/plotnine/blob/main/plotnine-workshop.pdf[)
 
-[Google Colab (starter)]()
+[Google Colab (starter)](https://colab.research.google.com/drive/1UpbwnlH9eKb7fP_OjD-jQER119tSTyZO?usp=sharing#sandboxMode=true&forceEdit=true)
 
-[Google Colab (with solution)]()
+[Google Colab (with solution)](https://colab.research.google.com/drive/1TeR6le1jzfazkKTuOgF9rDpK-U9lVFDP?usp=sharing#sandboxMode=true&forceEdit=true)
+
+*Both notebooks are also in this [repository](https://github.com/rladiescologne/plotnine/tree/main/code).*
 
 
 

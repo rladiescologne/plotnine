@@ -14,6 +14,8 @@ Our workshop is focused on exploring how to create and customize enticing visual
 
 ## Material
 
+[Recording](https://youtu.be/JUrRYYFDWJc)
+
 [Slides](https://github.com/rladiescologne/plotnine/blob/main/plotnine-workshop.pdf[)
 
 [Google Colab (starter)](https://colab.research.google.com/drive/1UpbwnlH9eKb7fP_OjD-jQER119tSTyZO?usp=sharing#sandboxMode=true&forceEdit=true)
